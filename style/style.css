@@ -151,8 +151,8 @@ nav {
 /* My-Next-Target */
 
 .My-Next-Target {
-    margin-left: 148px;
-    margin-right: 148px;
+    margin-left: 150px;
+    margin-right: 150px;
     margin-top: 151px;
     padding: 97px;
 }
@@ -169,4 +169,49 @@ nav {
     padding: 55.5px;
     border: 1px solid black;
     border-radius: 16px;
+}
+
+/* I-need-Support */
+
+.I-need-Support {
+    margin-right: 170px;
+    margin-left: 170px;
+    margin-top: 49px;
+    background-image: url("/assets/handshake.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    height: 313px;
+    width: 1140px;
+}
+.I-need-Support-txt {
+    text-align: center;
+    color: #ffffff;
+    padding-left: 205px;
+    padding-right: 205px;
+    padding-top: 64px;
+}
+.I-need-Support-txt-p {
+    padding-left: 62px;
+    padding-right: 62px;
+}
+.I-need-Support-input {
+    display: flex;
+    gap: 16px;
+    padding-left: 228px;
+    padding-right: 228px;
+    margin-top: 24px;
+    padding-bottom: 64px;
+}
+.Support-inputFild {
+    height: 57px;
+    width: 584px;
+    padding-left: 20px;
+    border-radius: 8px;
+}
+.Support-button-submit {
+    height: 57px;
+    width: 120px;
+    border-radius: 8px;
 }
