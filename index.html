@@ -6,6 +6,15 @@
     <title>Document</title>
     <link href="https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style/style.css">
+
+    <script>
+        function scrollToBottom() {
+            window.scrollTo({
+                top: document.body.scrollHeight,
+                behavior: 'smooth'
+            });
+        }
+    </script>
 </head>
 <body>
     <!-- navbar -->
@@ -22,7 +31,7 @@
         <div class="content-div-text">
             <h1 style="font-size: 48px;font-weight: 800;line-height: 68px;">"In the near future, I hope to become a Developer."</h1>
             <p>O Allah, I ask You for success in my work, and for ease in all difficulties. Help me in learning and developing, and allow me to use my skills in ways that please You and benefit others.</p>
-            <button class="button-contact">Contact with me</button>
+            <button class="button-contact" onclick="scrollToBottom()">Contact with me</button>
         </div>
     </section>
 
