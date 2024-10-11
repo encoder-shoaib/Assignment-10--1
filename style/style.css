@@ -202,7 +202,6 @@ nav {
     padding-left: 228px;
     padding-right: 228px;
     margin-top: 24px;
-    padding-bottom: 64px;
 }
 .Support-inputFild {
     height: 57px;
@@ -214,6 +213,8 @@ nav {
     height: 57px;
     width: 120px;
     border-radius: 8px;
+    margin-bottom: 70px;
+
 }
 
 /* footer  */
