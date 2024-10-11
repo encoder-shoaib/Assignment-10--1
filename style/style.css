@@ -22,6 +22,7 @@ nav {
     background-color: white;
 }
 
+/* future hope */
 .contact {
     background-image: url("/assets/Hero-bg.png");
     background-size: cover;
@@ -34,7 +35,6 @@ nav {
 .contact-div {
     padding-top: 49px;
 }
-
 .content-div-text {
     padding-top: 32px;
     padding-left: 221px;
@@ -52,4 +52,37 @@ nav {
     height: 65px;
     border: 2px solid black;
     border-radius: 8px;
+}
+
+/* .why-web-development */
+.why-web-development {
+    margin-left: 148px;
+    margin-right: 148px;
+    margin-top: 75px;
+    padding: 97px;
+}
+.why-web {
+    text-align: center;
+    padding-left: 47px;
+    padding-right: 47px;
+    margin-top: 24px;
+}
+.change-world {
+    display: flex;
+    padding: 48px;
+}
+.group-4-image {
+    width: 274.17px;
+    height: 240px;
+}
+.help-people {
+    display: flex;
+    padding-left: 48px;
+    padding-bottom: 48px;
+    padding-top: 48px;
+    margin-right: 32px;
+}
+.group-3-image {
+    width: 250px;
+    height: 250px;
 }
