@@ -21,3 +21,35 @@ nav {
     width: 244px;
     background-color: white;
 }
+
+.contact {
+    background-image: url("/assets/Hero-bg.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 652px;
+    width: 1440px;
+}
+.contact-div {
+    padding-top: 49px;
+}
+
+.content-div-text {
+    padding-top: 32px;
+    padding-left: 221px;
+    padding-right: 221px;
+    padding-bottom: 45px;
+    width: 998px;
+    height: 309px;
+    text-align: center;
+}
+.button-contact {
+    background-color: black;
+    color: white;
+    padding: 21px 24px;
+    width: 244px;
+    height: 65px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
