@@ -24,7 +24,7 @@ nav {
 
 /* future hope */
 .contact {
-    background-image: url("assets/Hero-bg.png");
+    background-image: url("../assets/Hero-bg.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -177,7 +177,7 @@ nav {
     margin-right: 170px;
     margin-left: 170px;
     margin-top: 49px;
-    background-image: url("assets/handshake.jpg");
+    background-image: url("../assets/handshake.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
