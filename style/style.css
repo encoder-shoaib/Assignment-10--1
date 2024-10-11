@@ -215,3 +215,32 @@ nav {
     width: 120px;
     border-radius: 8px;
 }
+
+/* footer  */
+.footer {
+    background-color: #f7f8f8;
+    margin-top: 69px;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+    margin-bottom: 0px;
+}
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.footer-content p {
+    color: #333;
+}
+.social-icons a {
+    margin-left: 24px;
+}
+.social-icons img {
+    width: 36px;
+    height: 36px;
+}
