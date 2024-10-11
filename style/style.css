@@ -148,3 +148,25 @@ nav {
     border-radius: 16px;
     background-color: #fffdf2;
 }
+/* My-Next-Target */
+
+.My-Next-Target {
+    margin-left: 148px;
+    margin-right: 148px;
+    margin-top: 151px;
+    padding: 97px;
+}
+
+.My-Next-Target-text {
+    text-align: center;
+    padding-left: 97px;
+    padding-right: 97px;
+}
+.My-Next-Target-div-container {
+    display: flex;
+    gap: 24px;
+    margin-top: 48px;
+    padding: 55.5px;
+    border: 1px solid black;
+    border-radius: 16px;
+}
