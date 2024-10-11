@@ -86,3 +86,30 @@ nav {
     width: 250px;
     height: 250px;
 }
+
+/* My-Inspiration */
+.My-Inspiration {
+    margin-left: 148px;
+    margin-right: 148px;
+    margin-top: 90px;
+    padding: 97px;
+}
+.inspiration-text {
+    text-align: center;
+    padding-left: 144px;
+    padding-right: 144px;
+    margin-bottom: 48px;
+}
+.inspiration-video-div {
+    border: 2px solid rgb(150, 142, 142);
+    border-radius: 16px;
+    height: 614px;
+    width: 1140px;
+}
+
+.inspiration-video {
+    height: 550px;
+    width: 1076px;
+    padding: 32px;
+    border-radius: 16px;
+}
