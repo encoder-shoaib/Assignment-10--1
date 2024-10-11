@@ -113,3 +113,38 @@ nav {
     padding: 32px;
     border-radius: 16px;
 }
+
+/* My Current Target */
+
+.My-Current-Target {
+    margin-left: 148px;
+    margin-right: 148px;
+    margin-top: 151px;
+    padding: 97px;
+}
+.My-Current-Target-text {
+    text-align: center;
+    padding-left: 144px;
+    padding-right: 144px;
+    margin-bottom: 48px;
+}
+.My-Current-Target-div-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 24px;
+}
+.div-container-img {
+    padding: 40px;
+    border-radius: 16px;
+    background-color: #fff6f3;
+}
+.div-container-img-1 {
+    padding: 40px;
+    border-radius: 16px;
+    background-color: #f2f6fe;
+}
+.div-container-img-2 {
+    padding: 40px;
+    border-radius: 16px;
+    background-color: #fffdf2;
+}
